@@ -5,5 +5,5 @@
   <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudiclei&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 |
-
+| ------------- | ------------- |
 
