@@ -1,4 +1,4 @@
-### Olá, eu sou Eudiclei Alencar 
+### Olá, me chamo Eudiclei Alencar e deste bem pequeno já curtia tecnologia!
 
 <div align="center">
   <a href="https://github.com/eudiclei">
