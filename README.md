@@ -2,15 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/eudiclei">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eudiclei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudiclei&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
-<a href="https://github.com/eudiclei">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eudiclei&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudiclei&layout=normal&langs_count=4&theme=dark"/>
-
+  </a>
+</div>
 <div align="center" style="display: inline_block"><br>
   <p>Learning:</p>
   <img align="center" alt="Eudiclei-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
